@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fefe930-01cd-489c-a6c6-f29f215e4370" name="Default Changelist" comment="Editar Usuario" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Aph" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="PhpDebugGeneral" break_at_first_line="true" />
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/maatwebsite/excel" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/vendor/jaybizzle/crawler-detect" />
+      <path value="$PROJECT_DIR$/vendor/laravel/jetstream" />
+      <path value="$PROJECT_DIR$/vendor/jenssegers/agent" />
+      <path value="$PROJECT_DIR$/vendor/laravel/fortify" />
+      <path value="$PROJECT_DIR$/vendor/mobiledetect/mobiledetectlib" />
+      <path value="$PROJECT_DIR$/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/vendor/inertiajs/inertia-laravel" />
+      <path value="$PROJECT_DIR$/vendor/tightenco/ziggy" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/smalot/pdfparser" />
+      <path value="$PROJECT_DIR$/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/vendor/league/config" />
+      <path value="$PROJECT_DIR$/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1k4P1UHEbLwGFYpVqBSlIutGaWD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\market\public\images" />
+      <recent name="C:\wamp64\www\market\resources\js\Pages\src" />
+      <recent name="C:\wamp64\www\market\resources\css" />
+      <recent name="C:\wamp64\www\market\public\js" />
+      <recent name="C:\wamp64\www\market\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\market2\public" />
+      <recent name="C:\wamp64\www\market\public\images" />
+      <recent name="C:\wamp64\www\market\resources\js\Pages" />
+      <recent name="C:\wamp64\www\market\resources" />
+      <recent name="C:\wamp64\www\market\public\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fefe930-01cd-489c-a6c6-f29f215e4370" name="Default Changelist" comment="" />
+      <created>1604956677874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604956677874</updated>
+      <workItem from="1604956680746" duration="3068000" />
+      <workItem from="1605004630140" duration="15265000" />
+      <workItem from="1605126976978" duration="4813000" />
+      <workItem from="1605181089915" duration="10071000" />
+      <workItem from="1605232311619" duration="31000" />
+      <workItem from="1605232732412" duration="5607000" />
+      <workItem from="1605297269537" duration="10398000" />
+      <workItem from="1605525346370" duration="12364000" />
+      <workItem from="1605641725035" duration="789000" />
+      <workItem from="1605697542969" duration="14942000" />
+      <workItem from="1606078048285" duration="2204000" />
+      <workItem from="1606089537633" duration="9364000" />
+      <workItem from="1617650826941" duration="7014000" />
+      <workItem from="1619024420826" duration="1460000" />
+      <workItem from="1619030228873" duration="970000" />
+      <workItem from="1620587578630" duration="2129000" />
+      <workItem from="1620655637566" duration="12000" />
+      <workItem from="1623186254243" duration="3378000" />
+      <workItem from="1623786304121" duration="1191000" />
+      <workItem from="1623852822368" duration="594000" />
+      <workItem from="1624919928785" duration="6147000" />
+      <workItem from="1624975935615" duration="122000" />
+      <workItem from="1625010160648" duration="4222000" />
+      <workItem from="1625060800634" duration="6000" />
+      <workItem from="1625178446966" duration="7080000" />
+      <workItem from="1625242423499" duration="370000" />
+      <workItem from="1625427292402" duration="1941000" />
+      <workItem from="1625437650704" duration="151000" />
+      <workItem from="1625538459110" duration="1023000" />
+      <workItem from="1625575060554" duration="712000" />
+      <workItem from="1625578689509" duration="1224000" />
+      <workItem from="1625623589880" duration="3112000" />
+      <workItem from="1625664666689" duration="35000" />
+      <workItem from="1625783814337" duration="12017000" />
+      <workItem from="1626099875307" duration="1442000" />
+      <workItem from="1626188001635" duration="580000" />
+      <workItem from="1626389776855" duration="1593000" />
+      <workItem from="1626440436636" duration="30000" />
+      <workItem from="1626440769637" duration="617000" />
+      <workItem from="1626449273805" duration="1764000" />
+      <workItem from="1626738574979" duration="1382000" />
+      <workItem from="1627668626350" duration="8707000" />
+      <workItem from="1628106414927" duration="58000" />
+      <workItem from="1630016834425" duration="4063000" />
+      <workItem from="1631296165383" duration="3509000" />
+      <workItem from="1633534806510" duration="232000" />
+      <workItem from="1634862597147" duration="615000" />
+      <workItem from="1635306233761" duration="846000" />
+      <workItem from="1635307577188" duration="849000" />
+      <workItem from="1635437622542" duration="91000" />
+      <workItem from="1638248234157" duration="4947000" />
+      <workItem from="1638303270276" duration="29133000" />
+      <workItem from="1638463845490" duration="15947000" />
+      <workItem from="1638763926921" duration="7327000" />
+      <workItem from="1641086664483" duration="8767000" />
+      <workItem from="1641180529042" duration="21612000" />
+      <workItem from="1641338589346" duration="1805000" />
+      <workItem from="1641358930849" duration="30933000" />
+      <workItem from="1641475846634" duration="2415000" />
+      <workItem from="1641526374980" duration="23722000" />
+      <workItem from="1641833358026" duration="4729000" />
+      <workItem from="1641877655323" duration="8770000" />
+      <workItem from="1643067343449" duration="3560000" />
+      <workItem from="1643216400753" duration="1782000" />
+      <workItem from="1643304210733" duration="12240000" />
+      <workItem from="1643687554683" duration="2457000" />
+      <workItem from="1643741183840" duration="12290000" />
+      <workItem from="1643866702428" duration="35000" />
+      <workItem from="1649787437706" duration="105000" />
+      <workItem from="1649832336998" duration="629000" />
+      <workItem from="1649975038974" duration="1407000" />
+      <workItem from="1650403114936" duration="3297000" />
+      <workItem from="1659580510610" duration="15625000" />
+      <workItem from="1659738091666" duration="6924000" />
+      <workItem from="1659760282248" duration="5039000" />
+      <workItem from="1659923522166" duration="7928000" />
+      <workItem from="1659992245877" duration="12805000" />
+      <workItem from="1660059582265" duration="6487000" />
+      <workItem from="1660259077699" duration="564000" />
+      <workItem from="1660667632069" duration="3265000" />
+      <workItem from="1660704374018" duration="1493000" />
+      <workItem from="1660878403496" duration="637000" />
+      <workItem from="1661401772117" duration="2970000" />
+      <workItem from="1661485806750" duration="4089000" />
+      <workItem from="1662082669404" duration="582000" />
+      <workItem from="1662085792491" duration="1180000" />
+      <workItem from="1662435500372" duration="1856000" />
+      <workItem from="1663303332078" duration="1564000" />
+      <workItem from="1663694025179" duration="613000" />
+      <workItem from="1664573685913" duration="3740000" />
+      <workItem from="1664584897335" duration="8196000" />
+      <workItem from="1664606296384" duration="908000" />
+      <workItem from="1665681890496" duration="42000" />
+      <workItem from="1665681935111" duration="5187000" />
+      <workItem from="1666105097791" duration="7689000" />
+      <workItem from="1668774298280" duration="2117000" />
+    </task>
+    <task id="LOCAL-00001" summary="Inicializar Proyecto">
+      <created>1604960470292</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604960470292</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Inicializar Proyecto">
+      <created>1605050166516</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605050166516</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Inicializar Proyecto">
+      <created>1605050196802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605050196803</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Inicializar Proyecto">
+      <created>1605053873809</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605053873809</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Inicializar Proyecto">
+      <created>1605053980280</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605053980280</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Inicializar Proyecto">
+      <created>1605238323564</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605238323564</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Inicializar Proyecto">
+      <created>1605568006997</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605568006997</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Inicializar Proyecto">
+      <created>1605568021593</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605568021593</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Inicializar Proyecto">
+      <created>1605701634486</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605701634486</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Inicializar Proyecto">
+      <created>1606089636712</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606089636712</updated>
+    </task>
+    <task id="LOCAL-00011" summary="paginate">
+      <created>1606095183462</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606095183462</updated>
+    </task>
+    <task id="LOCAL-00012" summary="subirArchivos">
+      <created>1606098508894</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606098508894</updated>
+    </task>
+    <task id="LOCAL-00013" summary="subirArchivos">
+      <created>1606098660321</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1606098660321</updated>
+    </task>
+    <task id="LOCAL-00014" summary="mandarEdificion">
+      <created>1611850349850</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1611850349850</updated>
+    </task>
+    <task id="LOCAL-00015" summary="nueva Modificacion">
+      <created>1611939781370</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1611939781370</updated>
+    </task>
+    <task id="LOCAL-00016" summary="mandarEdificion">
+      <created>1617397265557</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1617397265557</updated>
+    </task>
+    <task id="LOCAL-00017" summary="enviar">
+      <created>1619022657911</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1619022657911</updated>
+    </task>
+    <task id="LOCAL-00018" summary="mandarDatos">
+      <created>1619025182324</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1619025182324</updated>
+    </task>
+    <task id="LOCAL-00019" summary="SubirNumeroDePartida">
+      <created>1619025312468</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1619025312468</updated>
+    </task>
+    <task id="LOCAL-00020" summary="subirMasRapido">
+      <created>1619030546657</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1619030546658</updated>
+    </task>
+    <task id="LOCAL-00021" summary="SubirCantidad">
+      <created>1619030612580</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1619030612580</updated>
+    </task>
+    <task id="LOCAL-00022" summary="enviarDevoluciones">
+      <created>1620588000841</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1620588000841</updated>
+    </task>
+    <task id="LOCAL-00023" summary="enviarDevoluciones">
+      <created>1620588162108</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1620588162108</updated>
+    </task>
+    <task id="LOCAL-00024" summary="enviar18">
+      <created>1620588319352</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1620588319352</updated>
+    </task>
+    <task id="LOCAL-00025" summary="enviarDatos">
+      <created>1620588525814</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1620588525814</updated>
+    </task>
+    <task id="LOCAL-00026" summary="enviarParcelas">
+      <created>1623188617022</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1623188617022</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Etiquetas">
+      <created>1624923787647</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1624923787647</updated>
+    </task>
+    <task id="LOCAL-00028" summary="mando etiqueta">
+      <created>1624926569276</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1624926569276</updated>
+    </task>
+    <task id="LOCAL-00029" summary="EtiquetaSeleccionada">
+      <created>1625013213375</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1625013213375</updated>
+    </task>
+    <task id="LOCAL-00030" summary="mandarEtiqueta">
+      <created>1625014413630</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1625014413630</updated>
+    </task>
+    <task id="LOCAL-00031" summary="mandarDatos">
+      <created>1625180171858</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1625180171858</updated>
+    </task>
+    <task id="LOCAL-00032" summary="mandarDatos">
+      <created>1625182071924</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1625182071925</updated>
+    </task>
+    <task id="LOCAL-00033" summary="enviarDatos">
+      <created>1625183217574</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1625183217574</updated>
+    </task>
+    <task id="LOCAL-00034" summary="GuardarBarrioId">
+      <created>1625184730350</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1625184730350</updated>
+    </task>
+    <task id="LOCAL-00035" summary="mandarDaros">
+      <created>1625185545977</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1625185545977</updated>
+    </task>
+    <task id="LOCAL-00036" summary="parce y vue">
+      <created>1625539488448</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1625539488448</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Avance de Barrios">
+      <created>1625626422506</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1625626422506</updated>
+    </task>
+    <task id="LOCAL-00038" summary="enviarDatos">
+      <created>1625788968122</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1625788968122</updated>
+    </task>
+    <task id="LOCAL-00039" summary="enviarBarrios">
+      <created>1625797335050</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1625797335050</updated>
+    </task>
+    <task id="LOCAL-00040" summary="migracion">
+      <created>1625798094300</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1625798094300</updated>
+    </task>
+    <task id="LOCAL-00041" summary="enviarBarrio">
+      <created>1626115574854</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1626115574854</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Color">
+      <created>1627071636738</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1627071636738</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Color">
+      <created>1627676588396</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1627676588396</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Todo">
+      <created>1630021774209</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1630021774209</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Comit">
+      <created>1631296320974</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1631296320974</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Editar Usuario">
+      <created>1632421496376</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1632421496376</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Editar Usuario">
+      <created>1664606916513</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1664606916513</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Editar Usuario">
+      <created>1666115689285</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1666115689285</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mandarEdificion" />
+    <MESSAGE value="enviar" />
+    <MESSAGE value="SubirNumeroDePartida" />
+    <MESSAGE value="subirMasRapido" />
+    <MESSAGE value="SubirCantidad" />
+    <MESSAGE value="enviarDevoluciones" />
+    <MESSAGE value="enviar18" />
+    <MESSAGE value="enviarParcelas" />
+    <MESSAGE value="Etiquetas" />
+    <MESSAGE value="mando etiqueta" />
+    <MESSAGE value="EtiquetaSeleccionada" />
+    <MESSAGE value="mandarEtiqueta" />
+    <MESSAGE value="mandarDatos" />
+    <MESSAGE value="GuardarBarrioId" />
+    <MESSAGE value="mandarDaros" />
+    <MESSAGE value="parce y vue" />
+    <MESSAGE value="Avance de Barrios" />
+    <MESSAGE value="enviarDatos" />
+    <MESSAGE value="enviarBarrios" />
+    <MESSAGE value="migracion" />
+    <MESSAGE value="enviarBarrio" />
+    <MESSAGE value="Color" />
+    <MESSAGE value="Todo" />
+    <MESSAGE value="Comit" />
+    <MESSAGE value="Editar Usuario" />
+    <option name="LAST_COMMIT_MESSAGE" value="Editar Usuario" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="438" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1664605095937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="438" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1664605095937" />
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1664574116603">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1664574116603" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1665681927608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1663304521652" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1665681927608" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1666115698624">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1666115698624" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1668776422738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1668776422738" />
+    <state x="308" y="54" width="1272" height="812" key="dock-window-1" timestamp="1664586803647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="308" y="54" width="1272" height="812" key="dock-window-1/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1664586803647" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1661487433484">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1661487433484" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1668774829453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1664584949629" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1668774829453" />
+  </component>
+</project>
